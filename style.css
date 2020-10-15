@@ -53,6 +53,7 @@ label {
 input {
     border: 0px;
     border-radius: 4px;
+    text-align: center;
 }
 
 input:focus {
