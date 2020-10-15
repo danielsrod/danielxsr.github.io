@@ -17,6 +17,10 @@ body {
     text-align: center;
 }
 
+#app input[type="number"] {
+    text-align: center;
+}
+
 label {
     margin-left: 15px;
 }
